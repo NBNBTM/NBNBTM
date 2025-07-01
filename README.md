@@ -22,9 +22,6 @@
     <img src="https://img.shields.io/github/followers/NBNBTM?label=Followers&style=flat&color=0e75b6" alt="followers"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/lindsey-yang-408463266/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="linkedin"/>
-  </a>
 </p>
 
 <p align="center">
