@@ -25,7 +25,7 @@
 <!-- ********************************************************************* -->
 
 <p align="center">
-  <a href="www.linkedin.com/in/lindsey-yang-408463266" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lindsey-yang-408463266/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/NBNBTM" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-%23ffb703.svg?style=for-the-badge&logo=Firefox&logoColor=white"/></a>
   <a href="mailto:yanglinsen761@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
