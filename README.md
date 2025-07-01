@@ -21,7 +21,6 @@
   <a href="https://github.com/NBNBTM?tab=followers">
     <img src="https://img.shields.io/github/followers/NBNBTM?label=Followers&style=flat&color=0e75b6" alt="followers"/>
   </a>
-  &nbsp;
 </p>
 
 <p align="center">
