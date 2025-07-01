@@ -37,37 +37,19 @@
 <!-- ********************************************************************* -->
 
 ### 📊 My GitHub Stats
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/NBNBTM">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NBNBTM&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=default&card_width=460" />
-  </a>
-  <a href="https://github.com/NBNBTM">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBNBTM&layout=compact&theme=default&card_width=460" />
-  </a>
-</p>
+<!-- 总体数据卡 -->
+<a href="https://github.com/NBNBTM">
+  <img src="https://github-readme-stats.vercel.app/api?username=NBNBTM&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=default&card_width=450&cache_seconds=86400" alt="NBNBTM github stats"/>
+</a>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NBNBTM&theme=default&date_format=M%20j%5B%2C%20Y%5D" alt="streak" /></a>
-</p>
+<!-- 语言占比卡（紧凑）-->
+<a href="https://github.com/NBNBTM">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBNBTM&layout=compact&langs_count=8&theme=default&card_width=450&cache_seconds=86400" alt="NBNBTM most used languages"/>
+</a>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NBNBTM&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="trophies"/>
-  </a>
-</p>
-
-<!-- ********************************************************************* -->
-<!--                     📈  最近贡献热力图                                 -->
-<!-- ********************************************************************* -->
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NBNBTM&theme=github-compact&area=true&hide_border=true&radius=8" alt="activity graph"/>
-  </a>
-</p>
+</div>
 
 ---
 
