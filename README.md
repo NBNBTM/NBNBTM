@@ -4,18 +4,38 @@
 
 <h1 align="center">
   <img src="https://cdn.jsdelivr.net/gh/NBNBTM/NBNBTM/assets/wave.gif" width="30"/>
-  Hi, I'm Lindsey!
+  Hi, I'm Lindsey&nbsp;<span style="font-size:0.8em;">(Lin-sen Yang)</span>!
 </h1>
 
 <p align="center">
-  🎓 Sophomore @ <b>The Ohio State University</b> · CS & AI major, GPA 3.77<br/>
-  💹 Aspiring <b>FinTech / Data Scientist</b> – turning code ➜ insight ➜ impact<br/>
-  🏀 Cat-lover · Basketball captain · Chess medalist · ASA sailing license holder
+  🎓 <b>Sophomore @ The Ohio State University</b> — CS & AI major (GPA 3.77/4.0)<br/>
+  💹 <b>FinTech / Data Science Enthusiast</b> — turning code ➜ insight ➜ impact<br/>
+  🛠️ Python • PyTorch • SQL • TensorFlow • AWS • Tableau • GitHub Actions<br/>
+  📈 Equity Quant Intern <b>@ Morgan Stanley</b> | 3D AI Research <b>@ Tsinghua Univ.</b><br/>
+  🏀 Basketball captain • ♟️ Provincial chess medalist • 🐱 Stray-cat rescuer • ⛵ ASA-certified sailor
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NBNBTM&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  <a href="https://github.com/NBNBTM?tab=followers"><img src="https://img.shields.io/github/followers/NBNBTM?label=Followers&style=flat&color=0e75b6"/></a>
+  <img src="https://komarev.com/ghpvc/?username=NBNBTM&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+  &nbsp;
+  <a href="https://github.com/NBNBTM?tab=followers">
+    <img src="https://img.shields.io/github/followers/NBNBTM?label=Followers&style=flat&color=0e75b6" alt="followers"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/lindsey-yang-408463266/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="linkedin"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>What I’m working on:</b><br/>
+  • Building multi-factor trading signals &amp; back-testing pipelines (Python &amp; SQL)<br/>
+  • Packaging a PDDL + LLM planner into an MCP micro-service<br/>
+  • Writing tech blogs on AI-for-Finance &amp; reproducible ML
+</p>
+
+<p align="center">
+  <b>Open to:</b> 2026 FinTech / Quant / Data Science internship opportunities · research collaboration · cat-themed hackathons 🐾
 </p>
 
 ---
